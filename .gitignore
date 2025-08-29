@@ -31,13 +31,13 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-build/
-android/
-ios/
-windows/
-macos/
-linux/
-web/
+/build/
+/android/
+/ios/
+/windows/
+/macos/
+/linux/
+/web/
 
 
 
